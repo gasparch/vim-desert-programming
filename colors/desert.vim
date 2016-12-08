@@ -79,8 +79,8 @@ hi    Todo         guifg=orangered     guibg=yellow2
 hi    Function     guifg=#ffecb3 
 
 hi elixirModuleDefine guifg=#ffb74d gui=bold
-hi elixirDefine guifg=#ffb74d gui=bold
-hi elixirPrivateDefine guifg=#ffb74d
+hi elixirDefine guifg=#ffb74d gui=bold guibg=#1e1e1e
+hi elixirPrivateDefine guifg=#ffb74d guibg=#1e1e1e
 hi elixirOperator guifg=#ffd54f
 hi elixirExUnitMacro guifg=#ffb74d gui=bold
 
