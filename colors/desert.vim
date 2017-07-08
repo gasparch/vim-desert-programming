@@ -70,7 +70,10 @@ hi    Identifier   guifg=#aed581
 "palegreen
 hi    Statement    guifg=#ffe082
 hi    PreProc      guifg=#e57373
-hi    Type         guifg=#c0ca33
+" very bright color Lime#600
+"hi    Type         guifg=#c0ca33
+" more into whitish color Lime#100
+hi    Type         guifg=#f0f4c3 gui=none
 hi    Special      guifg=navajowhite
 "hi   Underlined
 hi    Ignore       guifg=grey40
